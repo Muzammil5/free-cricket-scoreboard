@@ -157,7 +157,7 @@ function App() {
   return (
     <div className="cricket-app">
       <div className="scoreboard">
-        <h1>🏏 Cricket Scoreboard</h1>
+        <h1>🏏 Lampton (@Cricket) Scoreboard</h1>
         
         {/* Tabs */}
         <div className="tabs">
